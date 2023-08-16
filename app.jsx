@@ -7,7 +7,6 @@ const App = () => {
     <div>
       <h1>Hello world.</h1>
       <button onClick={()=> changeTheValue}>Click me</button>
-      <footer> All rights are reserved by dhiraj.</footer>
     </div>
   )
 }
