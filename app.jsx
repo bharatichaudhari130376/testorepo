@@ -2,7 +2,7 @@ import React from 'react';
 const App = () => {
   const changeTheValue = () => {
     console.log("Click me");
-    console.log("Main branch -> Success")
+    console.log("test-b-1 branch -> success");
   }
   return (
     <div>
