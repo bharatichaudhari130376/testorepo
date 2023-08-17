@@ -2,6 +2,7 @@ import React from 'react';
 const App = () => {
   const changeTheValue = () => {
     console.log("Click me");
+    console.log("Main branch -> Success")
   }
   return (
     <div>
